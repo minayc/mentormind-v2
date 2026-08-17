@@ -38,4 +38,6 @@ chroma_db/
 
 # Logs
 *.log
-logs/
+logs/mentormind.db
+.claude/
+chroma_db/

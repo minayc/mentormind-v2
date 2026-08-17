@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+chromadb
+pypdf
+groq
+google-generativeai
+ollama
+reportlab

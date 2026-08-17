@@ -24,4 +24,4 @@ sentence or paragraph-aware chunking in the EXPANSION PHASE.
 - Proper fix: Track turns in main.py. On even turns (questions), skip evaluation. 
 On odd turns (answers), evaluate the previous user message.
 - Shouldn't lose context whenever we refresh
-- PDF should we be provided by the user
+- PDF should be provided by the user
