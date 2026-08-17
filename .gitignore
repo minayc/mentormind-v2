@@ -41,3 +41,4 @@ chroma_db/
 logs/mentormind.db
 .claude/
 chroma_db/
+mentormind.db
